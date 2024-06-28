@@ -8,11 +8,11 @@
     <nav>
         <a class="active" href="#home">Home</a>
         <br />
-        <a href="#news">News</a>
+        <a href="#projects">Projects</a>
         <br />
-        <a href="#contact">Contact</a>
+        <a href="#skills">Skills</a>
         <br />
-        <a href="#about">About</a>
+        <a href="#edu">Education</a>
     </nav>
 </div>
 

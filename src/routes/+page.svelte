@@ -7,7 +7,7 @@
 <Sidebar />
 
 <div class="content">
-    <h1>Jai Bellare - Résumé</h1>
+    <h1 id="home">Jai Bellare - Résumé</h1>
 
     <Print />
 
@@ -16,14 +16,14 @@
         !
     </p>
 
-    <h2>Projects</h2>
+    <h2 id="projects">Projects</h2>
     <p>
         Graphics Engine
         <br />
         Tracked RC robot
     </p>
 
-    <h2>Skills</h2>
+    <h2 id="skills">Skills</h2>
     <h3>Engineering Software</h3>
     <p>
         ANSYS
@@ -35,7 +35,7 @@
         SOLIDWORKS
     </p>
 
-    <h2>Education</h2>
+    <h2 id="edu">Education</h2>
     <h3>IIT Bombay</h3>
     <h3>IITian's PACE</h3>
     <h3>Bombay Scottish School, Mahim</h3>
