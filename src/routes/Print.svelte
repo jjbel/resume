@@ -7,32 +7,26 @@
 
 <button on:click={onClick}>
     <span id="text"> DOWNLOAD </span>
-    <span class="material-symbols-outlined"> download </span>
 </button>
-
-<link
-    rel="stylesheet"
-    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
-/>
 
 <style>
     button {
-        font-size: 1.4em;
+        font-size: 1em;
         font-family: 'Source Code Pro', monospace;
-        background: #f84100;
+        background: #004cdb;
         color: white;
-        padding: 0.2em;
-        border-radius: 0.3em;
+        padding: 0.5em;
+        border-radius: 0.7em;
 
         transition-duration: 0.4s;
     }
 
     button:hover {
-        background-color: #b73100;
+        background-color: #003db7;
     }
 
     button:active {
-        background-color: #701e00;
+        background-color: #002370;
     }
 
     #text {
