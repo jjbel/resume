@@ -13,6 +13,7 @@
         <a href="#skills">Skills</a>
         <br />
         <a href="#edu">Education</a>
+        <a href="#about">About</a>
     </nav>
 </div>
 
