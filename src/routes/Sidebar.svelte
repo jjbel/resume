@@ -1,9 +1,17 @@
 <script>
     import photo from '$lib/assets/jai_photo.jpg';
+    import None from './None.svelte';
 </script>
 
 <div class="sidebar">
     <img src={photo} alt="Jai" style="width:9vw;height:9vw;" />
+
+    <div id="info">
+        <ul>
+            <li>📍 Mumbai, Maharashtra, India</li>
+            <li>✉️ jai<None />bellare<None />[at]<None />gmail<None />[dot]<None />com</li>
+        </ul>
+    </div>
 
     <nav>
         <a class="active" href="#home">Home</a>
@@ -13,6 +21,7 @@
         <a href="#skills">Skills</a>
         <br />
         <a href="#edu">Education</a>
+        <br />
         <a href="#about">About</a>
     </nav>
 </div>
@@ -23,9 +32,11 @@
         padding: 0;
         width: 14vw;
         height: 100vh;
-        background-color: #0f0f18;
         position: fixed;
-        overflow: auto;
+        overflow: scroll;
+
+        background-color: #0f0f18;
+        color: white;
 
         display: flex;
         flex-direction: column;
@@ -36,9 +47,5 @@
         -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
         -moz-box-sizing: border-box; /* Firefox, other Gecko */
         box-sizing: border-box; /* Opera/IE 8+ */
-    }
-
-    a {
-        color: white;
     }
 </style>

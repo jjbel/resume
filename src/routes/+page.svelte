@@ -39,7 +39,7 @@
     <h3>IITian's PACE</h3>
     <h3>Bombay Scottish School, Mahim</h3>
 
-    <h2>About this webpage</h2>
+    <h2 id="about">About this webpage</h2>
     <p>
         This site is made using <a href="https://svelte.dev/">Svelte</a>, a javascript framework
         which prerenders pages for fast viewing, plus HTML and CSS of course.
@@ -69,5 +69,6 @@
 
     p {
         margin: 1em 1em;
+        /* gives a nice indent */
     }
 </style>

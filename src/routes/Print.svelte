@@ -6,7 +6,7 @@
 </script>
 
 <button on:click={onClick}>
-    <span id="text"> DOWNLOAD </span>
+    <span id="text"> DOWNLOAD ⬇️ </span>
 </button>
 
 <style>
