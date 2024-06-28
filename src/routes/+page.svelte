@@ -1,2 +1,27 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation googaga</p>
+<script>
+    // import Card from './Card.svelte';
+    import Print from './Print.svelte';
+</script>
+
+<h1>Jai Bellare - Résumé</h1>
+
+<Print />
+
+<h2>Projects</h2>
+<p>
+    Graphics Engine
+    <br />
+    Tracked RC robot
+</p>
+
+<h2>Skills</h2>
+<h3>Engineering Software</h3>
+<p>
+    ANSYS
+    <br />
+    MATLAB/Scilab
+    <br />
+    LTSPICE
+    <br />
+    SOLIDWORKS
+</p>
