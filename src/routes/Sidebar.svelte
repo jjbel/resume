@@ -7,10 +7,9 @@
     <img src={photo} alt="Jai" style="width:9vw;height:9vw;" />
 
     <div id="info">
-        <ul>
-            <li>📍 Mumbai, Maharashtra, India</li>
-            <li>✉️ jai<None />bellare<None />[at]<None />gmail<None />[dot]<None />com</li>
-        </ul>
+        📍 Mumbai, Maharashtra, India
+        <br />
+        ✉️ jai<None />bellare<None />[at]<None />gmail<None />[dot]<None />com
     </div>
 
     <nav>
