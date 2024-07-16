@@ -1,1 +1,0 @@
-# view at https://jjbel.github.io/resume/
