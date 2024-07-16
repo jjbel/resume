@@ -1,5 +1,5 @@
 <script>
-    // import Card from './Card.svelte';
+    import Projects from './Projects.svelte';
     import Print from './Print.svelte';
     import Sidebar from './Sidebar.svelte';
 </script>
@@ -14,11 +14,8 @@
     <p>🎓 Excited to join BTech in Electrical Engineering at IIT-Bombay in July 2024 !</p>
 
     <h2 id="projects">Projects</h2>
-    <p>
-        Graphics Engine
-        <br />
-        Tracked RC robot
-    </p>
+
+    <Projects />
 
     <h2 id="skills">Skills</h2>
     <p>Click on each link to show I project I did.</p>
