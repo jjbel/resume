@@ -11,7 +11,7 @@
 
     <Print />
 
-    <p>🎓 Excited to join BTech in Electrical Engineering at IIT-Bombay in July 2024 !</p>
+    <p>🎓 Studying Electrical Engineering at IIT-Bombay! (B. Tech 2028)</p>
 
     <h2 id="projects">Projects</h2>
 
@@ -33,7 +33,7 @@
 
     <h2 id="edu">Education</h2>
     <h3>IIT Bombay</h3>
-    <h3>IITian's PACE</h3>
+    <h3>PACE Junior Science College</h3>
     <h3>Bombay Scottish School, Mahim</h3>
 
     <h2 id="about">About this webpage</h2>
