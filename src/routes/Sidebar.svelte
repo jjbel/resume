@@ -4,7 +4,7 @@
 </script>
 
 <div class="sidebar">
-    <img src={photo} alt="Jai" style="width:9vw;height:9vw;" />
+    <img src={photo} alt="Jai" style="width:9vw;" />
 
     <div id="info">
         📍 Mumbai, Maharashtra, India
@@ -29,7 +29,7 @@
     .sidebar {
         margin: 0;
         padding: 0;
-        width: 14vw;
+        width: 18vw;
         height: 100vh;
         position: fixed;
         overflow: scroll;
